@@ -1,0 +1,11 @@
+# SCP Next Generation Universe Startpage
+## Welcome to the Published SCP Next Generation Universe!
+This is the published edition of the SCP Next Generation Universe (NGU), a passion project of mine that I've spent countless hours to create. It is yet another SCP canon. However, the design philosophy behind the SCP-NGU is to have a singular canon on which books, shows, or other forms of media could be produced off of. This is to prevent the issue of inconsistency related to lore between pieces of media. The original SCP universe intentionally allows this as to give the most creative freedom to the writer(s), however this makes it hard to produce multiple concurrent forms of media based off of the content in the universe. My goal is to create a new universe that holds the original philosophy of the SCP universe close to heart, while also unifying some of the concepts and ideas into a more concrete canon. 
+
+>[!WARNING]
+>This is a work-in-progress. Changes are to be expected, and restructuring is guaranteed. Eventually, changes to this project will be limited to additions to the SCP files, Foundation tales, and created independent works.
+## How to Navigate The Vault
+### Jump Right In!
+Feel free to take a look at [[SCP-NGU Homepage|the universe's homepage]] to get an overview of the SCP-NGU, the general concept of the SCP universe, and it's central focus, [[The Foundation|The SCP Foundation]]. If you are experienced with The Foundation and the SCP Universe, take a look at some of the new [[SCP Files|SCP files]] which have been reworked from the ground up. Or, take a look at some of the recreated canonical elements such as [[The Foundation]], [[|The Mobile Task Forces]], or [[|the policies and procedures]].
+## About the Author
+I am Devin, a passionate creative writer who also has experience with technology, cybersecurity, and programming. I am looking to pursue a career in cybersecurity and penetration-testing. However, in my free time I enjoy writing, reading, and periodically exploring nature.
